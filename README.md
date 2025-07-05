@@ -1,2 +1,2 @@
 # Python-Project
-In this repo, I will share my git and GitHub knowledges with you.
+In this repo, I will share my python practice projects with you.
